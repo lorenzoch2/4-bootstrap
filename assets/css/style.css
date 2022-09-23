@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+footer img{
+    width: 82px;
+}
+
+.navbar-brand img{
+    width: 86px;
+}
+
+.row{
+    margin: 3% 7%;
+}
